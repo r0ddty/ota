@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": timeInUnix,
+      "filename": "ota-package.zip",
+      "id": "sha1sum",
+      "romtype": "release",
+      "size": sizeInBytes,
+      "url": "https://example.com/ota-package.zip",
+      "version": "18.0"
+    }
+  ]
+}
