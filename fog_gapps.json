@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1738880999,
-      "filename": "Bliss-v18.1-fog-UNOFFICIAL-gapps-20241223.zip",
-      "id": "224d76d5a09e8546d715981760c397e70f8f4d58",
+      "datetime": 1738881906,
+      "filename": "Bliss-v18.2-fog-UNOFFICIAL-gapps-20250206.zip",
+      "id": "8b6727f09cf3a581e2e83775680229444828cdf9",
       "romtype": "release",
-      "size": 1907085677,
-      "url": "https://sourceforge.net/projects/rootd-fog-builds/files/BlissROMs/Bliss-v18.1-fog-UNOFFICIAL-gapps-20241223.zip/download",
-      "version": "18.1"
+      "size": 2196045132,
+      "url": "https://sourceforge.net/projects/rootd-fog-builds/files/BlissROMs/Bliss-v18.2-fog-UNOFFICIAL-gapps-20250206.zip/download",
+      "version": "18.2"
     }
   ]
 }
