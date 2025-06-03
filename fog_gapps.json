@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1740870046,
-      "filename": "Bliss-v18.3-fog-UNOFFICIAL-gapps-20250301.zip",
-      "id": "25d14c4d729dc086a02695ce0398d3810d723b87",
+      "datetime": timeInUnix,
+      "filename": "ota-package.zip",
+      "id": "sha1sum",
       "romtype": "release",
-      "size": 2092730446
-      "url": "https://sourceforge.net/projects/rootd-fog-builds/files/BlissROMs/Bliss-v18.3-fog-UNOFFICIAL-gapps-20250301.zip/download",
-      "version": "18.3"
+      "size": sizeInBytes,
+      "url": "https://example.com/ota-package.zip",
+      "version": "18.0"
     }
   ]
 }
