@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": timeInUnix,
-      "filename": "ota-package.zip",
-      "id": "sha1sum",
+      "datetime": 1749817401,
+      "filename": "DerpFest-v15.2-20250608-fog-Community-Stable.zip",
+      "id": "1ca5c6e6e8944d85a6bf408142031758f2f4b302",
       "romtype": "release",
-      "size": sizeInBytes,
-      "url": "https://example.com/ota-package.zip",
-      "version": "18.0"
+      "size": 2035136486,
+      "url": "https://sourceforge.net/projects/rootd-fog-builds/files/DerpFest/DerpFest-v15.2-20250608-fog-Community-Stable.zip/download",
+      "version": "15.2"
     }
   ]
 }
