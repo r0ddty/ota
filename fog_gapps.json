@@ -1,13 +1,12 @@
 {
-  "response": [
-    {
-      "datetime": 1749817401,
-      "filename": "DerpFest-v15.2-20250608-fog-Community-Stable.zip",
-      "id": "1ca5c6e6e8944d85a6bf408142031758f2f4b302",
-      "romtype": "release",
-      "size": 2035136486,
-      "url": "https://sourceforge.net/projects/rootd-fog-builds/files/DerpFest/DerpFest-v15.2-20250608-fog-Community-Stable.zip/download",
-      "version": "15.2"
-    }
-  ]
+        "response": [
+                {
+                        "filename": "Project_Infinity-X-3.0-fog-20250802-1357-GAPPS-UNOFFICIAL.zip",
+                        "download": "https://sourceforge.net/projects/rootd-fog-builds/files/infinity/community/bklv/Project_Infinity-X-3.0-fog-20250802-1357-GAPPS-UNOFFICIAL.zip/download",
+                        "timestamp": 1754141952,
+                        "md5": "3afd0a172539a005bcddf6ff1027e01f",
+                        "size": 1782358286,
+                        "version": "3.0"
+                }
+        ]
 }
